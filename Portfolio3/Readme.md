@@ -306,7 +306,7 @@ This is a hackathon submission project, but suggestions and improvements are wel
 
 - **Email**: rohansanjay.patil@study.thws.de
 - **Email**: vidya.padmanabha@study.thws.de
-- **Email**: harsha.satish@study.thws.de
-- **Email**: riya.Biju@study.thws.de
+- **Email**: harsha.sathish@study.thws.de
+- **Email**: riya.biju@study.thws.de
 
 **Built for Google Tunix Hackathon 2026**
