@@ -2,10 +2,10 @@
 
 > **71.3% accuracy on GSM8K using a 2-billion parameter model trained with GRPO on a single TPU**
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Model-20BEFF?logo=kaggle)](https://www.kaggle.com/models/rohanpatil27/gemma-2b-grpo-multisession-final)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Model-20BEFF?logo=kaggle)](https://www.kaggle.com/code/rohanpatil27/conquering-gemma-session-3)
 [![Tunix](https://img.shields.io/badge/Built%20with-Tunix-4285F4)](https://github.com/google-deepmind/tunix)
 
-**Google Tunix Hackathon Submission** | [Video Demo](#) | [Writeup](#key-findings)
+**Google Tunix Hackathon Submission**
 
 ---
 
