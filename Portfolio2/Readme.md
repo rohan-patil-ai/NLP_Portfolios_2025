@@ -1,4 +1,4 @@
-Team: Harsha Satish, Riya Biju, Rohan Sanjay Patil, Vidya Padmanabha
+Team: Harsha Sathish, Riya Biju, Rohan Sanjay Patil, Vidya Padmanabha
 
 This folder collects three NLP/ML projects that explore generation, classical ML (TF-IDF) and model training on the Hugging Face stack.
 
