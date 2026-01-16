@@ -28,4 +28,6 @@ NLP_Portfolios_2025/
     ├── conquering-gemma-session-3.ipynb
     └── Results/
 ```
-## Everyone Contributed Equally to all the three Portfolios!!!
+ Everyone Contributed Equally to all Portfolios!!!
+
+ Thanks to Prof. Dr. Ivan Yamshchikov for the interesting and amazing lectures on NLP
