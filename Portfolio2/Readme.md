@@ -23,8 +23,8 @@ Summary
 Prompt (used in the project)
 ```
 prompt = f"""
-		You are a professional and creative songwriter.
-		Your task is to write a complete song with a clear structure.
+		You should write the poem in a way that should win  in Americas Got Talent.
+		Your task is to respond with only the poem text no conversational  text.
     
 		The song must be inspired by these three words:
 		1. {word1}
