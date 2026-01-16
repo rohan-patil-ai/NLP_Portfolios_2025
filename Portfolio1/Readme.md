@@ -40,3 +40,7 @@ The Neural Network approach significantly outperformed traditional back-off n-gr
 ## 📂 Included Files
 * [Research Paper_NPLM.pdf](./Research%20Paper_NPLM.pdf) - The original 2003 JMLR paper.
 * [NLPM PPT.pptx](./NLPM%20PPT.pptx) - Our team's presentation deck breaking down the concepts, math, and results.
+
+## Contact / Credits
+
+Team: Harsha Satish, Riya Biju, Rohan Sanjay Patil, Vidya Padmanabha
