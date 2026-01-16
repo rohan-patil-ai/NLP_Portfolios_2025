@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # NLP_Portfolios_2025
 Complete portfolios by Team: Harsha Sathish, Riya Biju, Rohan Sanjay Patil, Vidya Padmanabha
 
@@ -33,5 +32,3 @@ NLP_Portfolios_2025/
     ├── conquering-gemma-session-3.ipynb
     └── Results/
 ```
->>>>>>> Stashed changes
-
