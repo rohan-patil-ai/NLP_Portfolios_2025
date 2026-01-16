@@ -28,3 +28,4 @@ NLP_Portfolios_2025/
     ├── conquering-gemma-session-3.ipynb
     └── Results/
 ```
+## Everyone Contributed Equally to all the three Portfolios!!!
