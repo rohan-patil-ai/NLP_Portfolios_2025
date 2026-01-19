@@ -6,7 +6,7 @@
 [![Tunix](https://img.shields.io/badge/Built%20with-Tunix-4285F4)](https://www.kaggle.com/competitions/google-tunix-hackathon) 
 
 **Google Tunix Hackathon Submission**
-Final Submission File -> (https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/making-a-2b-parameter-model-actually-explain)
+(https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/making-a-2b-parameter-model-actually-explain)
 
 ---
 
